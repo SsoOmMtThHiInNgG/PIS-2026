@@ -1,0 +1,21 @@
+@startuml
+
+actor User
+participant UI
+participant API
+participant PaymentService
+database DataBase
+
+User -> UI: Купить билет
+UI -> API: Запрос покупки
+
+API -> PaymentService: Провести оплату
+PaymentService --> API: Ошибка оплаты
+
+API -> DataBase: Отмена резервирования
+DataBase --> API: OK
+
+API --> UI: Ошибка оплаты
+UI --> User: "Оплата не выполнена"
+
+@enduml
