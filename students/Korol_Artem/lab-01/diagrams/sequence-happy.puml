@@ -1,0 +1,28 @@
+@startuml
+
+actor User
+participant UI
+participant API
+database DataBase
+participant PaymentService
+participant EmailService
+
+User -> UI: Выбор мероприятия
+UI -> API: Запрос покупки билета
+
+API -> DataBase: Проверка наличия мест
+DataBase --> API: Места доступны
+
+API -> PaymentService: Создание оплаты
+PaymentService --> API: Оплата успешна
+
+API -> DataBase: Создание билета
+DataBase --> API: Билет сохранён
+
+API -> EmailService: Отправка email
+EmailService --> API: OK
+
+API --> UI: Билет подтверждён
+UI --> User: Показ электронного билета
+
+@enduml
