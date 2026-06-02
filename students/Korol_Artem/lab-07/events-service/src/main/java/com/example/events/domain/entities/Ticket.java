@@ -1,13 +1,13 @@
 package com.example.events.domain.entities;
 
+import java.util.ArrayList;
+import java.util.List;
+
 import com.example.events.domain.enums.TicketStatus;
 import com.example.events.domain.events.DomainEvent;
 import com.example.events.domain.events.TicketActivatedEvent;
 import com.example.events.domain.events.TicketCancelledEvent;
 import com.example.events.domain.events.TicketCreatedEvent;
-
-import java.util.ArrayList;
-import java.util.List;
 
 public class Ticket {
 
@@ -23,7 +23,7 @@ public class Ticket {
 
     public Ticket(
         Long id,
-        Long eventId
+     Long eventId
     ) {
 
         if (id == null)
@@ -38,7 +38,8 @@ public class Ticket {
         events.add(
             new TicketCreatedEvent(
                 id,
-                eventId
+                eventId,
+                null
             )
         );
     }
