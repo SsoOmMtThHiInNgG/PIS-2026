@@ -1,0 +1,4 @@
+com\example\ticket\repository\TicketRepository.class
+com\example\ticket\domain\Ticket.class
+com\example\ticket\grpc\TicketGrpcService.class
+com\example\ticket\Application.class

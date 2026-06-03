@@ -1,0 +1,4 @@
+com\example\events\Application.class
+com\example\events\repository\EventRepository.class
+com\example\events\domain\Event.class
+com\example\events\grpc\EventGrpcService.class
