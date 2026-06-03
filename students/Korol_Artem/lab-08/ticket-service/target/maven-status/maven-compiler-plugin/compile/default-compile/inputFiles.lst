@@ -1,0 +1,13 @@
+C:\Users\user\Documents\GitHub\PIS-2026\students\Korol_Artem\lab-08\ticket-service\src\main\java\com\example\ticket\Application.java
+C:\Users\user\Documents\GitHub\PIS-2026\students\Korol_Artem\lab-08\ticket-service\src\main\java\com\example\ticket\controller\TicketController.java
+C:\Users\user\Documents\GitHub\PIS-2026\students\Korol_Artem\lab-08\ticket-service\src\main\java\com\example\ticket\domain\Ticket.java
+C:\Users\user\Documents\GitHub\PIS-2026\students\Korol_Artem\lab-08\ticket-service\src\main\java\com\example\ticket\domain\TicketAggregate.java
+C:\Users\user\Documents\GitHub\PIS-2026\students\Korol_Artem\lab-08\ticket-service\src\main\java\com\example\ticket\domain\TicketProjection.java
+C:\Users\user\Documents\GitHub\PIS-2026\students\Korol_Artem\lab-08\ticket-service\src\main\java\com\example\ticket\domain\TicketView.java
+C:\Users\user\Documents\GitHub\PIS-2026\students\Korol_Artem\lab-08\ticket-service\src\main\java\com\example\ticket\events\TicketActivatedEvent.java
+C:\Users\user\Documents\GitHub\PIS-2026\students\Korol_Artem\lab-08\ticket-service\src\main\java\com\example\ticket\events\TicketCancelledEvent.java
+C:\Users\user\Documents\GitHub\PIS-2026\students\Korol_Artem\lab-08\ticket-service\src\main\java\com\example\ticket\events\TicketCreatedEvent.java
+C:\Users\user\Documents\GitHub\PIS-2026\students\Korol_Artem\lab-08\ticket-service\src\main\java\com\example\ticket\rabbitmq\RabbitConfig.java
+C:\Users\user\Documents\GitHub\PIS-2026\students\Korol_Artem\lab-08\ticket-service\src\main\java\com\example\ticket\rabbitmq\RabbitPublisher.java
+C:\Users\user\Documents\GitHub\PIS-2026\students\Korol_Artem\lab-08\ticket-service\src\main\java\com\example\ticket\repository\TicketRepository.java
+C:\Users\user\Documents\GitHub\PIS-2026\students\Korol_Artem\lab-08\ticket-service\src\main\java\com\example\ticket\service\TicketService.java

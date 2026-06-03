@@ -1,0 +1,13 @@
+TicketView.class
+TicketService.class
+com\example\ticket\events\TicketActivatedEvent.class
+com\example\ticket\domain\Ticket.class
+com\example\events\rabbitmq\RabbitPublisher.class
+com\example\ticket\events\TicketCancelledEvent.class
+TicketAggregate.class
+com\example\ticket\controller\TicketController.class
+com\example\events\rabbitmq\RabbitConfig.class
+com\example\ticket\events\TicketCreatedEvent.class
+com\example\ticket\Application.class
+TicketProjection.class
+TicketRepository.class

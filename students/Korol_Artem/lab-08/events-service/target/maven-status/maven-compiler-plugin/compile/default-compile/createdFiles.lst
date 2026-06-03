@@ -1,0 +1,14 @@
+com\example\events\domain\entities\Schedule.class
+com\example\events\domain\value_objects\Location.class
+com\example\events\repository\EventRepository.class
+com\example\events\domain\value_objects\EventTimeSlot.class
+com\example\events\domain\entities\Speaker.class
+com\example\events\rabbitmq\RabbitPublisher.class
+com\example\events\domain\events\EventPublishedEvent.class
+com\example\events\domain\entities\Event.class
+com\example\events\Application.class
+com\example\events\rabbitmq\RabbitConfig.class
+com\example\events\controller\EventController.class
+com\example\events\domain\value_objects\EventTitle.class
+com\example\events\service\EventService.class
+com\example\events\domain\value_objects\SpeakerName.class

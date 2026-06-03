@@ -1,0 +1,14 @@
+C:\Users\user\Documents\GitHub\PIS-2026\students\Korol_Artem\lab-08\events-service\src\main\java\com\example\events\Application.java
+C:\Users\user\Documents\GitHub\PIS-2026\students\Korol_Artem\lab-08\events-service\src\main\java\com\example\events\controller\EventController.java
+C:\Users\user\Documents\GitHub\PIS-2026\students\Korol_Artem\lab-08\events-service\src\main\java\com\example\events\domain\entities\Event.java
+C:\Users\user\Documents\GitHub\PIS-2026\students\Korol_Artem\lab-08\events-service\src\main\java\com\example\events\domain\entities\Schedule.java
+C:\Users\user\Documents\GitHub\PIS-2026\students\Korol_Artem\lab-08\events-service\src\main\java\com\example\events\domain\entities\Speaker.java
+C:\Users\user\Documents\GitHub\PIS-2026\students\Korol_Artem\lab-08\events-service\src\main\java\com\example\events\domain\events\EventPublishedEvent.java
+C:\Users\user\Documents\GitHub\PIS-2026\students\Korol_Artem\lab-08\events-service\src\main\java\com\example\events\domain\value_objects\EventTimeSlot.java
+C:\Users\user\Documents\GitHub\PIS-2026\students\Korol_Artem\lab-08\events-service\src\main\java\com\example\events\domain\value_objects\EventTitle.java
+C:\Users\user\Documents\GitHub\PIS-2026\students\Korol_Artem\lab-08\events-service\src\main\java\com\example\events\domain\value_objects\Location.java
+C:\Users\user\Documents\GitHub\PIS-2026\students\Korol_Artem\lab-08\events-service\src\main\java\com\example\events\domain\value_objects\SpeakerName.java
+C:\Users\user\Documents\GitHub\PIS-2026\students\Korol_Artem\lab-08\events-service\src\main\java\com\example\events\rabbitmq\RabbitConfig.java
+C:\Users\user\Documents\GitHub\PIS-2026\students\Korol_Artem\lab-08\events-service\src\main\java\com\example\events\rabbitmq\RabbitPublisher.java
+C:\Users\user\Documents\GitHub\PIS-2026\students\Korol_Artem\lab-08\events-service\src\main\java\com\example\events\repository\EventRepository.java
+C:\Users\user\Documents\GitHub\PIS-2026\students\Korol_Artem\lab-08\events-service\src\main\java\com\example\events\service\EventService.java
